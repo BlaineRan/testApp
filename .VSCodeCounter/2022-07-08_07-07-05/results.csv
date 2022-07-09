@@ -1,0 +1,135 @@
+"filename", "language", "JavaScript", "JSON with Comments", "TypeScript", "JSON", "XML", "Less", "Markdown", "TypeScript React", "HTML", "comment", "blank", "total"
+"d:\project\s2\testApp\.eslintrc.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"d:\project\s2\testApp\.prettierrc.js", "JavaScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"d:\project\s2\testApp\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 36, 0, 0, 0, 22, 58
+"d:\project\s2\testApp\config\config.ts", "TypeScript", 0, 0, 50, 0, 0, 0, 0, 0, 0, 13, 4, 67
+"d:\project\s2\testApp\config\defaultSettings.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 0, 12, 3, 33
+"d:\project\s2\testApp\config\oneapi.json", "JSON", 0, 0, 0, 593, 0, 0, 0, 0, 0, 0, 1, 594
+"d:\project\s2\testApp\config\proxy.ts", "TypeScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 12, 1, 35
+"d:\project\s2\testApp\config\routes.ts", "TypeScript", 0, 0, 66, 0, 0, 0, 0, 0, 0, 0, 4, 70
+"d:\project\s2\testApp\jest.config.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"d:\project\s2\testApp\jsconfig.json", "JSON with Comments", 0, 8, 0, 0, 0, 0, 0, 0, 0, 4, 0, 12
+"d:\project\s2\testApp\mock\listTableList.ts", "TypeScript", 0, 0, 158, 0, 0, 0, 0, 0, 0, 2, 15, 175
+"d:\project\s2\testApp\mock\notices.ts", "TypeScript", 0, 0, 105, 0, 0, 0, 0, 0, 0, 0, 3, 108
+"d:\project\s2\testApp\mock\route.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\mock\user.ts", "TypeScript", 0, 0, 187, 0, 0, 0, 0, 0, 0, 8, 9, 204
+"d:\project\s2\testApp\package.json", "JSON", 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 1, 87
+"d:\project\s2\testApp\playwright.config.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 1, 2, 23
+"d:\project\s2\testApp\public\bridge.svg", "XML", 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2
+"d:\project\s2\testApp\public\logo.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"d:\project\s2\testApp\public\pro_icon.svg", "XML", 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5
+"d:\project\s2\testApp\src\access.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 3, 1, 10
+"d:\project\s2\testApp\src\app.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 106, 0, 10, 4, 120
+"d:\project\s2\testApp\src\components\Footer\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 16, 0, 20, 6, 42
+"d:\project\s2\testApp\src\components\HeaderDropdown\index.less", "Less", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 3, 17
+"d:\project\s2\testApp\src\components\HeaderDropdown\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 4, 18
+"d:\project\s2\testApp\src\components\HeaderSearch\index.less", "Less", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 3, 26
+"d:\project\s2\testApp\src\components\HeaderSearch\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 94, 0, 0, 8, 102
+"d:\project\s2\testApp\src\components\NoticeIcon\NoticeIcon.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 117, 0, 0, 10, 127
+"d:\project\s2\testApp\src\components\NoticeIcon\NoticeList.less", "Less", 0, 0, 0, 0, 0, 96, 0, 0, 0, 0, 8, 104
+"d:\project\s2\testApp\src\components\NoticeIcon\NoticeList.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 108, 0, 1, 4, 113
+"d:\project\s2\testApp\src\components\NoticeIcon\index.less", "Less", 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 6, 36
+"d:\project\s2\testApp\src\components\NoticeIcon\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 135, 0, 0, 18, 153
+"d:\project\s2\testApp\src\components\RightContent\AvatarDropdown.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 96, 0, 5, 13, 114
+"d:\project\s2\testApp\src\components\RightContent\index.less", "Less", 0, 0, 0, 0, 0, 69, 0, 0, 0, 0, 5, 74
+"d:\project\s2\testApp\src\components\RightContent\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 53, 0, 4, 6, 63
+"d:\project\s2\testApp\src\components\index.md", "Markdown", 0, 0, 0, 0, 0, 0, 237, 0, 0, 0, 31, 268
+"d:\project\s2\testApp\src\e2e\login.test.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 3, 3, 14
+"d:\project\s2\testApp\src\global.less", "Less", 0, 0, 0, 0, 0, 43, 0, 0, 0, 0, 8, 51
+"d:\project\s2\testApp\src\global.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 77, 0, 8, 7, 92
+"d:\project\s2\testApp\src\locales\bn-BD.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"d:\project\s2\testApp\src\locales\bn-BD\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\bn-BD\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\bn-BD\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\bn-BD\pages.ts", "TypeScript", 0, 0, 68, 0, 0, 0, 0, 0, 0, 0, 1, 69
+"d:\project\s2\testApp\src\locales\bn-BD\pwa.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\project\s2\testApp\src\locales\bn-BD\settingDrawer.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"d:\project\s2\testApp\src\locales\bn-BD\settings.ts", "TypeScript", 0, 0, 59, 0, 0, 0, 0, 0, 0, 0, 1, 60
+"d:\project\s2\testApp\src\locales\en-US.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"d:\project\s2\testApp\src\locales\en-US\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\en-US\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\en-US\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\en-US\pages.ts", "TypeScript", 0, 0, 68, 0, 0, 0, 0, 0, 0, 0, 1, 69
+"d:\project\s2\testApp\src\locales\en-US\pwa.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\project\s2\testApp\src\locales\en-US\settingDrawer.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"d:\project\s2\testApp\src\locales\en-US\settings.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"d:\project\s2\testApp\src\locales\fa-IR.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"d:\project\s2\testApp\src\locales\fa-IR\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\fa-IR\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\fa-IR\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\fa-IR\pages.ts", "TypeScript", 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 1, 66
+"d:\project\s2\testApp\src\locales\fa-IR\pwa.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\project\s2\testApp\src\locales\fa-IR\settingDrawer.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"d:\project\s2\testApp\src\locales\fa-IR\settings.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"d:\project\s2\testApp\src\locales\id-ID.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"d:\project\s2\testApp\src\locales\id-ID\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\id-ID\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\id-ID\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\id-ID\pages.ts", "TypeScript", 0, 0, 68, 0, 0, 0, 0, 0, 0, 0, 1, 69
+"d:\project\s2\testApp\src\locales\id-ID\pwa.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\project\s2\testApp\src\locales\id-ID\settingDrawer.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"d:\project\s2\testApp\src\locales\id-ID\settings.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"d:\project\s2\testApp\src\locales\ja-JP.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 2, 25
+"d:\project\s2\testApp\src\locales\ja-JP\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\ja-JP\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\ja-JP\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\ja-JP\pages.ts", "TypeScript", 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 1, 66
+"d:\project\s2\testApp\src\locales\ja-JP\pwa.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\project\s2\testApp\src\locales\ja-JP\settingDrawer.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"d:\project\s2\testApp\src\locales\ja-JP\settings.ts", "TypeScript", 0, 0, 59, 0, 0, 0, 0, 0, 0, 0, 1, 60
+"d:\project\s2\testApp\src\locales\pt-BR.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"d:\project\s2\testApp\src\locales\pt-BR\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\pt-BR\globalHeader.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 1, 19
+"d:\project\s2\testApp\src\locales\pt-BR\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\pt-BR\pages.ts", "TypeScript", 0, 0, 68, 0, 0, 0, 0, 0, 0, 0, 1, 69
+"d:\project\s2\testApp\src\locales\pt-BR\pwa.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\project\s2\testApp\src\locales\pt-BR\settingDrawer.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"d:\project\s2\testApp\src\locales\pt-BR\settings.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"d:\project\s2\testApp\src\locales\zh-CN.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 2, 26
+"d:\project\s2\testApp\src\locales\zh-CN\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\zh-CN\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\zh-CN\menu.ts", "TypeScript", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 2, 62
+"d:\project\s2\testApp\src\locales\zh-CN\pages.ts", "TypeScript", 0, 0, 69, 0, 0, 0, 0, 0, 0, 0, 1, 70
+"d:\project\s2\testApp\src\locales\zh-CN\pwa.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\project\s2\testApp\src\locales\zh-CN\settingDrawer.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"d:\project\s2\testApp\src\locales\zh-CN\settings.ts", "TypeScript", 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 1, 56
+"d:\project\s2\testApp\src\locales\zh-TW.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 2, 21
+"d:\project\s2\testApp\src\locales\zh-TW\component.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"d:\project\s2\testApp\src\locales\zh-TW\globalHeader.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\project\s2\testApp\src\locales\zh-TW\menu.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 1, 53
+"d:\project\s2\testApp\src\locales\zh-TW\pwa.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\project\s2\testApp\src\locales\zh-TW\settingDrawer.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 32
+"d:\project\s2\testApp\src\locales\zh-TW\settings.ts", "TypeScript", 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 1, 56
+"d:\project\s2\testApp\src\manifest.json", "JSON", 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 1, 23
+"d:\project\s2\testApp\src\pages\404.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 3, 19
+"d:\project\s2\testApp\src\pages\Admin.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 43, 0, 0, 3, 46
+"d:\project\s2\testApp\src\pages\TableList\components\UpdateForm.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 205, 0, 0, 5, 210
+"d:\project\s2\testApp\src\pages\TableList\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 631, 0, 97, 46, 774
+"d:\project\s2\testApp\src\pages\User\Login\index.less", "Less", 0, 0, 0, 0, 0, 41, 0, 0, 0, 0, 8, 49
+"d:\project\s2\testApp\src\pages\User\Login\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 318, 0, 9, 23, 350
+"d:\project\s2\testApp\src\pages\Welcome.less", "Less", 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 2, 9
+"d:\project\s2\testApp\src\pages\Welcome.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 6, 44
+"d:\project\s2\testApp\src\pages\checkPage\dailyCheck.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 419, 0, 27, 30, 476
+"d:\project\s2\testApp\src\pages\checkPage\deckingCheckPage.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 12, 36
+"d:\project\s2\testApp\src\pages\checkPage\periodicCheck.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 835, 0, 69, 64, 968
+"d:\project\s2\testApp\src\pages\checkPage\split.less", "Less", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3
+"d:\project\s2\testApp\src\pages\document.ejs", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 221, 0, 16, 237
+"d:\project\s2\testApp\src\pages\testPage\Welcome.less", "Less", 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 2, 9
+"d:\project\s2\testApp\src\pages\testPage\testPage.less", "Less", 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 3
+"d:\project\s2\testApp\src\pages\testPage\testPage.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 5, 15
+"d:\project\s2\testApp\src\service-worker.js", "JavaScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 22, 7, 66
+"d:\project\s2\testApp\src\services\ant-design-pro\api.ts", "TypeScript", 0, 0, 154, 0, 0, 0, 0, 0, 0, 28, 19, 201
+"d:\project\s2\testApp\src\services\ant-design-pro\index.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 4, 1, 11
+"d:\project\s2\testApp\src\services\ant-design-pro\login.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 5, 2, 22
+"d:\project\s2\testApp\src\services\ant-design-pro\typings.d.ts", "TypeScript", 0, 0, 117, 0, 0, 0, 0, 0, 0, 9, 17, 143
+"d:\project\s2\testApp\src\services\swagger\index.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 4, 1, 13
+"d:\project\s2\testApp\src\services\swagger\pet.ts", "TypeScript", 0, 0, 121, 0, 0, 0, 0, 0, 0, 17, 16, 154
+"d:\project\s2\testApp\src\services\swagger\store.ts", "TypeScript", 0, 0, 36, 0, 0, 0, 0, 0, 0, 8, 5, 49
+"d:\project\s2\testApp\src\services\swagger\typings.d.ts", "TypeScript", 0, 0, 79, 0, 0, 0, 0, 0, 0, 16, 18, 113
+"d:\project\s2\testApp\src\services\swagger\user.ts", "TypeScript", 0, 0, 78, 0, 0, 0, 0, 0, 0, 14, 9, 101
+"d:\project\s2\testApp\src\typings.d.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 2, 3, 25
+"d:\project\s2\testApp\tests\run-tests.js", "JavaScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 48
+"d:\project\s2\testApp\tests\setupTests.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 11
+"d:\project\s2\testApp\tests\t11.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"d:\project\s2\testApp\tsconfig.json", "JSON with Comments", 0, 34, 0, 0, 0, 0, 0, 0, 0, 8, 0, 42
+"Total", "-", 103, 42, 3306, 701, 8, 334, 273, 3355, 221, 451, 626, 9420

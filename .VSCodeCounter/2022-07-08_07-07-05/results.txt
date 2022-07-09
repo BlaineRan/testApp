@@ -1,0 +1,196 @@
+Date : 2022-07-08 07:07:05
+Directory : d:\project\s2\testApp
+Total : 133 files,  8343 codes, 451 comments, 626 blanks, all 9420 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| TypeScript React   |         20 |      3,355 |        250 |        277 |      3,882 |
+| TypeScript         |         84 |      3,306 |        161 |        209 |      3,676 |
+| JSON               |          3 |        701 |          0 |          3 |        704 |
+| Less               |         11 |        334 |          0 |         47 |        381 |
+| Markdown           |          2 |        273 |          0 |         53 |        326 |
+| HTML               |          1 |        221 |          0 |         16 |        237 |
+| JavaScript         |          7 |        103 |         28 |         21 |        152 |
+| JSON with Comments |          2 |         42 |         12 |          0 |         54 |
+| XML                |          3 |          8 |          0 |          0 |          8 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                    |        133 |      8,343 |        451 |        626 |      9,420 |
+| config                                                               |          5 |        749 |         37 |         13 |        799 |
+| mock                                                                 |          4 |        455 |         10 |         28 |        493 |
+| public                                                               |          3 |          8 |          0 |          0 |          8 |
+| src                                                                  |        110 |      6,881 |        385 |        546 |      7,812 |
+| src\components                                                       |         14 |      1,102 |         30 |        125 |      1,257 |
+| src\components\Footer                                                |          1 |         16 |         20 |          6 |         42 |
+| src\components\HeaderDropdown                                        |          2 |         28 |          0 |          7 |         35 |
+| src\components\HeaderSearch                                          |          2 |        117 |          0 |         11 |        128 |
+| src\components\NoticeIcon                                            |          5 |        486 |          1 |         46 |        533 |
+| src\components\RightContent                                          |          3 |        218 |          9 |         24 |        251 |
+| src\e2e                                                              |          1 |          8 |          3 |          3 |         14 |
+| src\locales                                                          |         63 |      2,027 |          0 |         72 |      2,099 |
+| src\locales\bn-BD                                                    |          7 |        239 |          0 |          7 |        246 |
+| src\locales\en-US                                                    |          7 |        239 |          0 |          7 |        246 |
+| src\locales\fa-IR                                                    |          7 |        238 |          0 |          7 |        245 |
+| src\locales\id-ID                                                    |          7 |        241 |          0 |          7 |        248 |
+| src\locales\ja-JP                                                    |          7 |        236 |          0 |          7 |        243 |
+| src\locales\pt-BR                                                    |          7 |        242 |          0 |          7 |        249 |
+| src\locales\zh-CN                                                    |          7 |        243 |          0 |          8 |        251 |
+| src\locales\zh-TW                                                    |          6 |        166 |          0 |          6 |        172 |
+| src\pages                                                            |         16 |      2,819 |        202 |        227 |      3,248 |
+| src\pages\TableList                                                  |          2 |        836 |         97 |         51 |        984 |
+| src\pages\TableList\components                                       |          1 |        205 |          0 |          5 |        210 |
+| src\pages\User                                                       |          2 |        359 |          9 |         31 |        399 |
+| src\pages\User\Login                                                 |          2 |        359 |          9 |         31 |        399 |
+| src\pages\checkPage                                                  |          4 |      1,281 |         96 |        106 |      1,483 |
+| src\pages\testPage                                                   |          3 |         18 |          0 |          9 |         27 |
+| src\services                                                         |          9 |        614 |        105 |         88 |        807 |
+| src\services\ant-design-pro                                          |          4 |        292 |         46 |         39 |        377 |
+| src\services\swagger                                                 |          5 |        322 |         59 |         49 |        430 |
+| tests                                                                |          3 |         45 |          6 |         10 |         61 |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                             | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\project\s2\testApp\.eslintrc.js                                   | JavaScript         |          8 |          0 |          1 |          9 |
+| d:\project\s2\testApp\.prettierrc.js                                 | JavaScript         |          4 |          0 |          2 |          6 |
+| d:\project\s2\testApp\README.md                                      | Markdown           |         36 |          0 |         22 |         58 |
+| d:\project\s2\testApp\config\config.ts                               | TypeScript         |         50 |         13 |          4 |         67 |
+| d:\project\s2\testApp\config\defaultSettings.ts                      | TypeScript         |         18 |         12 |          3 |         33 |
+| d:\project\s2\testApp\config\oneapi.json                             | JSON               |        593 |          0 |          1 |        594 |
+| d:\project\s2\testApp\config\proxy.ts                                | TypeScript         |         22 |         12 |          1 |         35 |
+| d:\project\s2\testApp\config\routes.ts                               | TypeScript         |         66 |          0 |          4 |         70 |
+| d:\project\s2\testApp\jest.config.js                                 | JavaScript         |          9 |          0 |          1 |         10 |
+| d:\project\s2\testApp\jsconfig.json                                  | JSON with Comments |          8 |          4 |          0 |         12 |
+| d:\project\s2\testApp\mock\listTableList.ts                          | TypeScript         |        158 |          2 |         15 |        175 |
+| d:\project\s2\testApp\mock\notices.ts                                | TypeScript         |        105 |          0 |          3 |        108 |
+| d:\project\s2\testApp\mock\route.ts                                  | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\mock\user.ts                                   | TypeScript         |        187 |          8 |          9 |        204 |
+| d:\project\s2\testApp\package.json                                   | JSON               |         86 |          0 |          1 |         87 |
+| d:\project\s2\testApp\playwright.config.ts                           | TypeScript         |         20 |          1 |          2 |         23 |
+| d:\project\s2\testApp\public\bridge.svg                              | XML                |          2 |          0 |          0 |          2 |
+| d:\project\s2\testApp\public\logo.svg                                | XML                |          1 |          0 |          0 |          1 |
+| d:\project\s2\testApp\public\pro_icon.svg                            | XML                |          5 |          0 |          0 |          5 |
+| d:\project\s2\testApp\src\access.ts                                  | TypeScript         |          6 |          3 |          1 |         10 |
+| d:\project\s2\testApp\src\app.tsx                                    | TypeScript React   |        106 |         10 |          4 |        120 |
+| d:\project\s2\testApp\src\components\Footer\index.tsx                | TypeScript React   |         16 |         20 |          6 |         42 |
+| d:\project\s2\testApp\src\components\HeaderDropdown\index.less       | Less               |         14 |          0 |          3 |         17 |
+| d:\project\s2\testApp\src\components\HeaderDropdown\index.tsx        | TypeScript React   |         14 |          0 |          4 |         18 |
+| d:\project\s2\testApp\src\components\HeaderSearch\index.less         | Less               |         23 |          0 |          3 |         26 |
+| d:\project\s2\testApp\src\components\HeaderSearch\index.tsx          | TypeScript React   |         94 |          0 |          8 |        102 |
+| d:\project\s2\testApp\src\components\NoticeIcon\NoticeIcon.tsx       | TypeScript React   |        117 |          0 |         10 |        127 |
+| d:\project\s2\testApp\src\components\NoticeIcon\NoticeList.less      | Less               |         96 |          0 |          8 |        104 |
+| d:\project\s2\testApp\src\components\NoticeIcon\NoticeList.tsx       | TypeScript React   |        108 |          1 |          4 |        113 |
+| d:\project\s2\testApp\src\components\NoticeIcon\index.less           | Less               |         30 |          0 |          6 |         36 |
+| d:\project\s2\testApp\src\components\NoticeIcon\index.tsx            | TypeScript React   |        135 |          0 |         18 |        153 |
+| d:\project\s2\testApp\src\components\RightContent\AvatarDropdown.tsx | TypeScript React   |         96 |          5 |         13 |        114 |
+| d:\project\s2\testApp\src\components\RightContent\index.less         | Less               |         69 |          0 |          5 |         74 |
+| d:\project\s2\testApp\src\components\RightContent\index.tsx          | TypeScript React   |         53 |          4 |          6 |         63 |
+| d:\project\s2\testApp\src\components\index.md                        | Markdown           |        237 |          0 |         31 |        268 |
+| d:\project\s2\testApp\src\e2e\login.test.ts                          | TypeScript         |          8 |          3 |          3 |         14 |
+| d:\project\s2\testApp\src\global.less                                | Less               |         43 |          0 |          8 |         51 |
+| d:\project\s2\testApp\src\global.tsx                                 | TypeScript React   |         77 |          8 |          7 |         92 |
+| d:\project\s2\testApp\src\locales\bn-BD.ts                           | TypeScript         |         25 |          0 |          2 |         27 |
+| d:\project\s2\testApp\src\locales\bn-BD\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\bn-BD\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\bn-BD\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\bn-BD\pages.ts                     | TypeScript         |         68 |          0 |          1 |         69 |
+| d:\project\s2\testApp\src\locales\bn-BD\pwa.ts                       | TypeScript         |          7 |          0 |          1 |          8 |
+| d:\project\s2\testApp\src\locales\bn-BD\settingDrawer.ts             | TypeScript         |         31 |          0 |          1 |         32 |
+| d:\project\s2\testApp\src\locales\bn-BD\settings.ts                  | TypeScript         |         59 |          0 |          1 |         60 |
+| d:\project\s2\testApp\src\locales\en-US.ts                           | TypeScript         |         24 |          0 |          2 |         26 |
+| d:\project\s2\testApp\src\locales\en-US\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\en-US\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\en-US\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\en-US\pages.ts                     | TypeScript         |         68 |          0 |          1 |         69 |
+| d:\project\s2\testApp\src\locales\en-US\pwa.ts                       | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\project\s2\testApp\src\locales\en-US\settingDrawer.ts             | TypeScript         |         31 |          0 |          1 |         32 |
+| d:\project\s2\testApp\src\locales\en-US\settings.ts                  | TypeScript         |         60 |          0 |          1 |         61 |
+| d:\project\s2\testApp\src\locales\fa-IR.ts                           | TypeScript         |         23 |          0 |          2 |         25 |
+| d:\project\s2\testApp\src\locales\fa-IR\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\fa-IR\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\fa-IR\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\fa-IR\pages.ts                     | TypeScript         |         65 |          0 |          1 |         66 |
+| d:\project\s2\testApp\src\locales\fa-IR\pwa.ts                       | TypeScript         |          7 |          0 |          1 |          8 |
+| d:\project\s2\testApp\src\locales\fa-IR\settingDrawer.ts             | TypeScript         |         32 |          0 |          1 |         33 |
+| d:\project\s2\testApp\src\locales\fa-IR\settings.ts                  | TypeScript         |         60 |          0 |          1 |         61 |
+| d:\project\s2\testApp\src\locales\id-ID.ts                           | TypeScript         |         24 |          0 |          2 |         26 |
+| d:\project\s2\testApp\src\locales\id-ID\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\id-ID\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\id-ID\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\id-ID\pages.ts                     | TypeScript         |         68 |          0 |          1 |         69 |
+| d:\project\s2\testApp\src\locales\id-ID\pwa.ts                       | TypeScript         |          7 |          0 |          1 |          8 |
+| d:\project\s2\testApp\src\locales\id-ID\settingDrawer.ts             | TypeScript         |         32 |          0 |          1 |         33 |
+| d:\project\s2\testApp\src\locales\id-ID\settings.ts                  | TypeScript         |         60 |          0 |          1 |         61 |
+| d:\project\s2\testApp\src\locales\ja-JP.ts                           | TypeScript         |         23 |          0 |          2 |         25 |
+| d:\project\s2\testApp\src\locales\ja-JP\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\ja-JP\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\ja-JP\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\ja-JP\pages.ts                     | TypeScript         |         65 |          0 |          1 |         66 |
+| d:\project\s2\testApp\src\locales\ja-JP\pwa.ts                       | TypeScript         |          7 |          0 |          1 |          8 |
+| d:\project\s2\testApp\src\locales\ja-JP\settingDrawer.ts             | TypeScript         |         31 |          0 |          1 |         32 |
+| d:\project\s2\testApp\src\locales\ja-JP\settings.ts                  | TypeScript         |         59 |          0 |          1 |         60 |
+| d:\project\s2\testApp\src\locales\pt-BR.ts                           | TypeScript         |         21 |          0 |          2 |         23 |
+| d:\project\s2\testApp\src\locales\pt-BR\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\pt-BR\globalHeader.ts              | TypeScript         |         18 |          0 |          1 |         19 |
+| d:\project\s2\testApp\src\locales\pt-BR\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\pt-BR\pages.ts                     | TypeScript         |         68 |          0 |          1 |         69 |
+| d:\project\s2\testApp\src\locales\pt-BR\pwa.ts                       | TypeScript         |          7 |          0 |          1 |          8 |
+| d:\project\s2\testApp\src\locales\pt-BR\settingDrawer.ts             | TypeScript         |         32 |          0 |          1 |         33 |
+| d:\project\s2\testApp\src\locales\pt-BR\settings.ts                  | TypeScript         |         60 |          0 |          1 |         61 |
+| d:\project\s2\testApp\src\locales\zh-CN.ts                           | TypeScript         |         24 |          0 |          2 |         26 |
+| d:\project\s2\testApp\src\locales\zh-CN\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\zh-CN\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\zh-CN\menu.ts                      | TypeScript         |         60 |          0 |          2 |         62 |
+| d:\project\s2\testApp\src\locales\zh-CN\pages.ts                     | TypeScript         |         69 |          0 |          1 |         70 |
+| d:\project\s2\testApp\src\locales\zh-CN\pwa.ts                       | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\project\s2\testApp\src\locales\zh-CN\settingDrawer.ts             | TypeScript         |         31 |          0 |          1 |         32 |
+| d:\project\s2\testApp\src\locales\zh-CN\settings.ts                  | TypeScript         |         55 |          0 |          1 |         56 |
+| d:\project\s2\testApp\src\locales\zh-TW.ts                           | TypeScript         |         19 |          0 |          2 |         21 |
+| d:\project\s2\testApp\src\locales\zh-TW\component.ts                 | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\project\s2\testApp\src\locales\zh-TW\globalHeader.ts              | TypeScript         |         17 |          0 |          1 |         18 |
+| d:\project\s2\testApp\src\locales\zh-TW\menu.ts                      | TypeScript         |         52 |          0 |          1 |         53 |
+| d:\project\s2\testApp\src\locales\zh-TW\pwa.ts                       | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\project\s2\testApp\src\locales\zh-TW\settingDrawer.ts             | TypeScript         |         31 |          0 |          1 |         32 |
+| d:\project\s2\testApp\src\locales\zh-TW\settings.ts                  | TypeScript         |         55 |          0 |          1 |         56 |
+| d:\project\s2\testApp\src\manifest.json                              | JSON               |         22 |          0 |          1 |         23 |
+| d:\project\s2\testApp\src\pages\404.tsx                              | TypeScript React   |         16 |          0 |          3 |         19 |
+| d:\project\s2\testApp\src\pages\Admin.tsx                            | TypeScript React   |         43 |          0 |          3 |         46 |
+| d:\project\s2\testApp\src\pages\TableList\components\UpdateForm.tsx  | TypeScript React   |        205 |          0 |          5 |        210 |
+| d:\project\s2\testApp\src\pages\TableList\index.tsx                  | TypeScript React   |        631 |         97 |         46 |        774 |
+| d:\project\s2\testApp\src\pages\User\Login\index.less                | Less               |         41 |          0 |          8 |         49 |
+| d:\project\s2\testApp\src\pages\User\Login\index.tsx                 | TypeScript React   |        318 |          9 |         23 |        350 |
+| d:\project\s2\testApp\src\pages\Welcome.less                         | Less               |          7 |          0 |          2 |          9 |
+| d:\project\s2\testApp\src\pages\Welcome.tsx                          | TypeScript React   |         38 |          0 |          6 |         44 |
+| d:\project\s2\testApp\src\pages\checkPage\dailyCheck.tsx             | TypeScript React   |        419 |         27 |         30 |        476 |
+| d:\project\s2\testApp\src\pages\checkPage\deckingCheckPage.tsx       | TypeScript React   |         24 |          0 |         12 |         36 |
+| d:\project\s2\testApp\src\pages\checkPage\periodicCheck.tsx          | TypeScript React   |        835 |         69 |         64 |        968 |
+| d:\project\s2\testApp\src\pages\checkPage\split.less                 | Less               |          3 |          0 |          0 |          3 |
+| d:\project\s2\testApp\src\pages\document.ejs                         | HTML               |        221 |          0 |         16 |        237 |
+| d:\project\s2\testApp\src\pages\testPage\Welcome.less                | Less               |          7 |          0 |          2 |          9 |
+| d:\project\s2\testApp\src\pages\testPage\testPage.less               | Less               |          1 |          0 |          2 |          3 |
+| d:\project\s2\testApp\src\pages\testPage\testPage.tsx                | TypeScript React   |         10 |          0 |          5 |         15 |
+| d:\project\s2\testApp\src\service-worker.js                          | JavaScript         |         37 |         22 |          7 |         66 |
+| d:\project\s2\testApp\src\services\ant-design-pro\api.ts             | TypeScript         |        154 |         28 |         19 |        201 |
+| d:\project\s2\testApp\src\services\ant-design-pro\index.ts           | TypeScript         |          6 |          4 |          1 |         11 |
+| d:\project\s2\testApp\src\services\ant-design-pro\login.ts           | TypeScript         |         15 |          5 |          2 |         22 |
+| d:\project\s2\testApp\src\services\ant-design-pro\typings.d.ts       | TypeScript         |        117 |          9 |         17 |        143 |
+| d:\project\s2\testApp\src\services\swagger\index.ts                  | TypeScript         |          8 |          4 |          1 |         13 |
+| d:\project\s2\testApp\src\services\swagger\pet.ts                    | TypeScript         |        121 |         17 |         16 |        154 |
+| d:\project\s2\testApp\src\services\swagger\store.ts                  | TypeScript         |         36 |          8 |          5 |         49 |
+| d:\project\s2\testApp\src\services\swagger\typings.d.ts              | TypeScript         |         79 |         16 |         18 |        113 |
+| d:\project\s2\testApp\src\services\swagger\user.ts                   | TypeScript         |         78 |         14 |          9 |        101 |
+| d:\project\s2\testApp\src\typings.d.ts                               | TypeScript         |         20 |          2 |          3 |         25 |
+| d:\project\s2\testApp\tests\run-tests.js                             | JavaScript         |         37 |          5 |          6 |         48 |
+| d:\project\s2\testApp\tests\setupTests.js                            | JavaScript         |          7 |          1 |          3 |         11 |
+| d:\project\s2\testApp\tests\t11.js                                   | JavaScript         |          1 |          0 |          1 |          2 |
+| d:\project\s2\testApp\tsconfig.json                                  | JSON with Comments |         34 |          8 |          0 |         42 |
+| Total                                                                |                    |      8,343 |        451 |        626 |      9,420 |
++----------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
