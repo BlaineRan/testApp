@@ -44,7 +44,10 @@ const Welcome: React.FC = () => {
             此外，本项目大部分涉及数据库操作的功能也难以完整展现，接口失效的情况下本项目中几乎所有http请求都会失败(地图部分除外，但它也
             因无法获得桥梁数据而失去几乎所有功能) <br /> <br />
             但我仍然认为这对于一个大二学生来说是一个不错的项目，在学期最后一周我几乎所有时间都在这个项目上面，答辩前还通宵了两天，
-            付出了相当的精力。前后端中都有我认为还算精彩的设计，java的后端源代码我也会放在这个代码仓库中的另一个分支里(<Link href="https://github.com/BlaineRan/testApp/tree/master">点我点我点我！</Link>)
+            付出了相当的精力。前后端中都有我认为还算精彩的设计，java的后端源代码我也会放在这个另一个仓库里<br />
+            <Link href="https://github.com/BlaineRan/testApp/tree/master">前端仓库</Link><br />
+            <Link href="https://github.com/BlaineRan/briddge">后端仓库</Link>
+
 
           </Paragraph>
 
