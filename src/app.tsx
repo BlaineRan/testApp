@@ -24,7 +24,7 @@ export async function getInitialState(): Promise<{
     try {
       // const msg = await queryCurrentUser();
       const msg = {
-        name: "测试用户",
+        name: "周文浩",
         avatar: "",
         userid: "111111111",
         access: "admin"
@@ -89,10 +89,7 @@ export const layout: RunTimeLayoutConfig = ({ initialState, setInitialState }) =
     ],
     links: isDev
       ? [
-        <Link key="openapi" to="/umi/plugin/openapi" target="_blank">
-          <LinkOutlined />
-          <span>OpenAPI 文档</span>
-        </Link>,
+
       ]
       : [],
     menuHeaderRender: undefined,
@@ -104,7 +101,7 @@ export const layout: RunTimeLayoutConfig = ({ initialState, setInitialState }) =
       return (
         <>
           {children}
-          {!props.location?.pathname?.includes('/login') && (
+          {/* {!props.location?.pathname?.includes('/login') && (
             <SettingDrawer
               disableUrlParams
               enableDarkTheme
@@ -116,7 +113,7 @@ export const layout: RunTimeLayoutConfig = ({ initialState, setInitialState }) =
                 }));
               }}
             />
-          )}
+          )} */}
         </>
       );
     },
