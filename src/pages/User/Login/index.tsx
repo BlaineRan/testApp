@@ -157,14 +157,20 @@ const Login: React.FC = () => {
       // 如果类型是invite则可输入邀请码登录
       if (type === 'invite') {
         if (values.invite === "Yali_1906") {
-          msg = await login({
-            account: "111111111",
-            password: "111111111",
-            type: "account"
-          })
+          // 
+          msg = {
+            status: "success",
+            type: "account",
+            access: "admin"
+          }
         }
       } else {
-        msg = await login(values);
+        // msg = await login(values);
+        msg = {
+          status: "success",
+          type: "account",
+          access: "admin"
+        }
       }
 
       if (msg.status === 'ok') {

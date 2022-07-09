@@ -63,4 +63,6 @@ export default defineConfig({
       projectName: 'swagger',
     },
   ],
+  base: '/testApp/',
+  publicPath: '/testApp/',
 });
